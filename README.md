@@ -1,15 +1,15 @@
 # chaimaa-nommi
-# Hello, I'm [shaimaa] 👋
+# Hello, I'm shaimaa 👋
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
  
 Welcome to my GitHub profile! I'm a student developer passionate about learning and building cool things with code.
 
 ## 🚀 About Me
-- 🧑‍🎓 I’m currently studying [web devlopement] at [w3schools]
+- 🧑‍🎓 I’m currently studying web devlopement at w3schools
 - 🌱 I’m currently learning HTML, CSS, JavaScript, and Python
 - 🛠️ I’m interested in web development and open-source projects
 - 🤝 I'm looking to collaborate on beginner-friendly projects
-- 📫 How to reach me: [programbusiness2@gmail.com]
+- 📫 How to reach me: programbusiness2@gmail.com
 
 ## 🧰 Tools & Technologies
 
